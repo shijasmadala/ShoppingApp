@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="offer_percentage">%1s OFF</string>
+</resources>
